@@ -27,5 +27,5 @@ ChatinMe adalah chatbot berbasis AI menggunakan Streamlit dan Gemini API untuk m
 Clone repository:
 
 ```bash
-git clone https://github.com/USERNAME/ai-personal-productivity-assistant.git
+git clone https://github.com/BuildWithRidzal/ai-personal-productivity-assistant.git
 cd ai-personal-productivity-assistant
